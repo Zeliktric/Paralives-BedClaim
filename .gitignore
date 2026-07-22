@@ -1,0 +1,5 @@
+_Build/*
+_Media/*
+bin/*
+obj/*
+*.csproj
